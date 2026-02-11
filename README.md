@@ -84,12 +84,6 @@ The deployment includes comprehensive testing:
 - HTTP response testing
 - Content delivery verification
 
----
-
-## 📖 Step-by-Step Guide  
-
-For a complete walkthrough with **detailed screenshots**, visit the blog post:  
-📌 [AWS DevOps Real-Time Deployment – Full Guide](https://blog.prodevopsguytech.com/aws-devops-real-time-deployment-dev-pre-prod-production)  
 
 ---
 
@@ -106,52 +100,10 @@ For a complete walkthrough with **detailed screenshots**, visit the blog post:
 - Content delivery verification
 - System resource monitoring
 
----
 
-## 🤝 Contributing
 
-We welcome contributions! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-### Development Guidelines
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
----
-
-## 🛠️ Author & Credits
-
-![text](https://imgur.com/2j7GSPs.png)
-
-This project is built and maintained by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-Feel free to contribute, suggest improvements, or reach out for discussions!  
-
-### 📧 **Contact & Links**
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [Hashnode](https://blog.prodevopsguy.xyz)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/harshhaa)
-
-### 🔖 **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📊 **Project Stats**
-
-![GitHub stars](https://img.shields.io/github/stars/NotHarshhaa/AWS-DevOps_Real-Time_Deployment?style=social)
-![GitHub forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-DevOps_Real-Time_Deployment?style=social)
-![GitHub issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-DevOps_Real-Time_Deployment)
-![GitHub last commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-DevOps_Real-Time_Deployment)
-
----
-
-## 🙏 **Acknowledgments**
-
-- AWS for providing excellent cloud services
-- The DevOps community for continuous learning and support
-- All contributors who help improve this project
 
 ---
 
